@@ -99,3 +99,5 @@ def stats(start=2017-6-1, end=2017-6-30):
             filter(Measurement.date <= end).all()
     temps = list(np.ravel(results))
     return jsonify(temps)
+
+    
