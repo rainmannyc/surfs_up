@@ -15,16 +15,16 @@ After our data analysis, we were able to conclude the following points:
 In our data analysis, we were able to query the data and find that the temperatures for the month of June range significantly higher and more frequently than in December. As we can see in the images and charts:
 
 
-[IMG](https)
+[junetemperatures](https://github.com/rainmannyc/surfs_up/blob/85fe2303db841d0c09a9cba1d19e2fed70b210d4/junetemperatures.png)
 
 
-[IMG](https)
+[decembertemperatures](https://github.com/rainmannyc/surfs_up/blob/85fe2303db841d0c09a9cba1d19e2fed70b210d4/decembertemperatures.png)
 
 
-[IMG](https)
+[junetemps](https://github.com/rainmannyc/surfs_up/blob/693b2e7c02f94c7e71da1e98b208f0bed92a24cf/junetemps.png)
 
 
-[IMG](https)
+[dectemps](https://github.com/rainmannyc/surfs_up/blob/693b2e7c02f94c7e71da1e98b208f0bed92a24cf/dectemps.png)
 
 
 As shown in the data above, the temperature ranges in June provide a much more comforting business analysis for W'Avy than in December. With an average temperature of 74.9 degrees in June as opposed to 71.04 degrees average in December. The average is approximately a 4 degrees difference, however the temperatures in June range from 75 to 80 degrees much more frequently which should be great for W'Avy's surf and ice cream shop. 
@@ -37,9 +37,11 @@ Some additional queries we can add would be a precipitation analysis. W'Avy may 
 
 We can also help W'Avy visualize on which part of the month it often rains as well as how much it rains in the charts below:
 
-[IMG]()
+![juneprcp](https://github.com/rainmannyc/surfs_up/blob/693b2e7c02f94c7e71da1e98b208f0bed92a24cf/juneprcp.png)
 
-[IMG]()
+![decprcp](https://github.com/rainmannyc/surfs_up/blob/693b2e7c02f94c7e71da1e98b208f0bed92a24cf/decprcp.png)
+
+![junedecprcp](https://github.com/rainmannyc/surfs_up/blob/693b2e7c02f94c7e71da1e98b208f0bed92a24cf/junedecprcp.png)
 
 ## **Conclusion**
 
