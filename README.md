@@ -31,7 +31,7 @@ As shown in the data above, the temperature ranges in June provide a much more c
 
 For the month of December, the temperatures are generally still above 70 degrees, which isn't as hot as in June, but possibly still sustainable in a business sense for W'Avy. Although the temperatures drop to approximately 69 degrees 25% of the time, on average, they are still above 71 degrees 50% of the time and approximately 74 degrees 75% of the time. 
 
-## **Additional Queries **
+## **Additional Queries**
 
 Some additional queries we can add would be a precipitation analysis. W'Avy may want to view the amount of precipitation in reference to surfing weather just as well as the temperature. The average number of inches of rain can possibly affect surfing weather, just as much as temperature would affect ice cream weather. We were able to add two additional queries in the "Additional Queries" section of our code located on the bottom. This would provide W'Avy with the data required for the months of June and December to analyze in reference to optimal surfing weather.  
 
